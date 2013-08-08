@@ -4580,9 +4580,11 @@ td.visible-print {
 body {
   padding-bottom: 40px;
   color: #4a4a4a;
+  background-color: #F2FAF5;
 }
 #tree-icon {
-  padding: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
 }
 footer {
   padding-top: 30px;
@@ -4590,6 +4592,18 @@ footer {
 img.img-thumbnail {
   margin-left: 10px;
   margin-right: 10px;
+}
+img.pull-left.img-thumbnail {
+  margin-left: 0px;
+  margin-right: 10px;
+}
+img.pull-right.img-thumbnail {
+  margin-left: 10px;
+  margin-right: 0px;
+}
+a > img.img-thumbnail {
+  margin-left: 0px;
+  margin-right: 0px;
 }
 /* CUSTOMIZE THE NAVBAR
 -------------------------------------------------- */
@@ -4635,7 +4649,7 @@ a.navbar-brand {
 -------------------------------------------------- */
 /* Carousel base class */
 #myCarousel {
-  margin-bottom: 60px;
+  margin-bottom: 40px;
   /* Negative margin to pull up carousel. 90px is roughly margins and height of navbar. */
 
   margin-top: -90px;
