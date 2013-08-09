@@ -4603,7 +4603,8 @@ img.pull-right.img-thumbnail {
   margin-right: 0px;
   margin-bottom: 10px;
 }
-a > img.img-thumbnail {
+a > img.img-thumbnail,
+.modal-body > img {
   margin: 0px;
 }
 .titlepane {
