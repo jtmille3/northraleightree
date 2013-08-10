@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+		<url>
+			<loc>http://www.northraleightree.com/</loc>
+			<lastmod>2013-08-10</lastmod>
+			<changefreq>monthly</changefreq>
+			<priority>0.5</priority>
+		</url>
+		<url>
+			<loc>http://www.northraleightree.com/index.html</loc>
+			<lastmod>2013-08-10</lastmod>
+			<changefreq>monthly</changefreq>
+			<priority>0.5</priority>
+		</url>
+		<url>
+			<loc>http://www.northraleightree.com/services.html</loc>
+			<lastmod>2013-08-10</lastmod>
+			<changefreq>monthly</changefreq>
+			<priority>0.5</priority>
+		</url>
+		<url>
+			<loc>http://www.northraleightree.com/contact.html</loc>
+			<lastmod>2013-08-10</lastmod>
+			<changefreq>monthly</changefreq>
+			<priority>0.5</priority>
+		</url>
+		<url>
+			<loc>http://www.northraleightree.com/testimonials.html</loc>
+			<lastmod>2013-08-10</lastmod>
+			<changefreq>monthly</changefreq>
+			<priority>0.5</priority>
+		</url>
+	</urlset>
